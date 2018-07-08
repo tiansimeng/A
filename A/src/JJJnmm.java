@@ -8,6 +8,7 @@ public class JJJnmm {
 		String type1 = "啊啊啊啊啊啊啊啊啊";
 		
 		String type = "YE3MP凄凄切切群群群-";
+		System.out.println(111);
 	}
 
 }
