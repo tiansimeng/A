@@ -18,6 +18,8 @@ public class MyEclipseCracker2
           .append("0").toString();
         String type = "YE3MP-";
         String type111 = "YE3MP-";
+
+String typeq = "YE3MP-";
         String need = new StringBuilder(userId.substring(0, 1)).append(type)
           .append("300").append(licenseNum).append(verTime).toString();
         String dx = new StringBuilder(need).append(LL).append(userId)
